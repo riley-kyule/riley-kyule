@@ -6,7 +6,7 @@ I'm a **Full-Stack Developer and Systems Engineer** based in Nairobi, Kenya.
 
 I build production web applications, internal business platforms, automation systems, analytics pipelines and self-hosted infrastructure. I enjoy taking everyday operational problems and turning them into practical, maintainable technology solutions.
 
-My work spans the full development lifecycle—from identifying a problem and designing the solution to building, deploying, securing and maintaining it in production.
+My work spans the full development lifecycle, from identifying a problem and designing the solution to building, deploying, securing and maintaining it in production.
 
 ## 👨🏾‍💻 What I Do
 
@@ -132,9 +132,11 @@ A custom Magento 2 extension for managing multiple suppliers, product sourcing a
 
 ## 📊 GitHub Activity
 
-![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=riley-kyule\&show_icons=true\&hide_border=true)
+- Building full-stack applications, automation tools and production infrastructure
+- Working primarily with TypeScript, PHP, Laravel, React, Next.js and Docker
+- Maintaining projects across application development, analytics and systems engineering
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riley-kyule\&layout=compact\&hide_border=true)
+[View my repositories →](https://github.com/riley-kyule?tab=repositories)
 
 ## 🤝 Let's Connect
 
